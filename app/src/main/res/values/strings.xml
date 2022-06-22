@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App - Movie Search (on Kotlin)</string>
+    <string name="search_button_txt">Start search</string>
+    <string name="create_button_txt">Create item</string>
+</resources>
